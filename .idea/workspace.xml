@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b3cd791-48fd-4124-a1fd-c909aaf9e5fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/network/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/network/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/render/renderer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/render/text_renderer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/render/texture_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/in_game_ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/lobby.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/main_menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Monopoly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Monopoly.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/network.json" afterDir="false" />
-    </list>
+    <list default="true" id="3b3cd791-48fd-4124-a1fd-c909aaf9e5fc" name="Changes" comment="Start commit 16.11.2025 22:27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +32,9 @@
     &quot;accountId&quot;: &quot;1cdf0248-723d-4460-9afc-41b1ac443874&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -88,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1763312908890</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start commit 16.11.2025 22:27">
+      <option name="closed" value="true" />
+      <created>1763324799971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763324799971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start commit 16.11.2025 22:27" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start commit 16.11.2025 22:27" />
   </component>
 </project>
